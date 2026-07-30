@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mullae-hyperpublic-note.aga-clinic.space/sitemap.xml
+Sitemap: https://mullae-hyperpublic-note.aga-clinic.space/sitemap-pages.xml
